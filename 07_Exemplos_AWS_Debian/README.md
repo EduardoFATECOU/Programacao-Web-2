@@ -11,17 +11,7 @@ chmod +x setup.sh
 sudo ./setup.sh
 ```
 
-### Opção 2 — Completo (PW2 + Banco de Dados II)
 
-Se for usar a **mesma instância** para ambas as disciplinas, use o script unificado:
-
-```bash
-# Caminho: Banco de Dados II/06_Exemplos_EC2/00_Setup/setup_completo.sh
-chmod +x setup_completo.sh
-sudo ./setup_completo.sh
-```
-
-Este script instala MongoDB 7, Redis, Cassandra 4.1, Apache2 e copia os exemplos.
 
 ## Acesso
 
